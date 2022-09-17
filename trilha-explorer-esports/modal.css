@@ -1,0 +1,44 @@
+/* Por ora serão apenas TAGS, mas a idéia é colocar um modal onde um
+um popup irá abrir e qualquer pessoa possa escrever sobre a experiencia do jogo */
+
+.games-legend {
+  display: block;
+  padding: 3px;
+  width: 5.5rem;
+  height: auto;
+  font-size: 8px;
+  border: 0px;
+  border-radius: 2px;
+  background-color: #121214;
+  color: white;
+  opacity: 70%;
+  margin-bottom: 0.5rem;
+}
+
+.games-legend:hover {
+  opacity: 100%;
+  transition: 2s;
+  background-color: #E2D45C;
+  cursor: pointer;
+}
+
+.channels-legend {
+  display: block;
+  padding: 2px;
+  width: 4rem;
+  height: auto;
+  font-size: 8px;
+  border: 0px;
+  border-radius: 2px;
+  background-color: #121214;
+  color: white;
+  opacity: 70%;
+  margin-bottom: 0.5rem;
+}
+
+.channels-legend:hover {
+  opacity: 100%;
+  background-color: #E2D45C;
+  transition: 2s;
+  cursor: pointer;
+}
